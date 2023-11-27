@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/meli-react/static/css/main.964fdded.css",
+    "main.js": "/meli-react/static/js/main.5ad739aa.js",
+    "index.html": "/meli-react/index.html",
+    "main.964fdded.css.map": "/meli-react/static/css/main.964fdded.css.map",
+    "main.5ad739aa.js.map": "/meli-react/static/js/main.5ad739aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.5ad739aa.js"
+  ]
+}
